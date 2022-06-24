@@ -23,7 +23,7 @@ describe('Outline icons', () => {
 
         expect(width).toBe('24px');
         expect(height).toBe('24px');
-        expect(strokeWidth).toBe('1px');
+        expect(strokeWidth).toBe('2px');
       });
 
       it('size parameter should work', async () => {
