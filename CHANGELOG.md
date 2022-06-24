@@ -1,3 +1,10 @@
+### [0.1.6](https://github.com/dimaslz/ng-heroicons/compare/0.1.5...0.1.6) (2022-06-24)
+
+
+### Bug Fixes
+
+* **icons:** set stroke size for outline icons ([beb6461](https://github.com/dimaslz/ng-heroicons/commit/beb6461f797b37f93897324c4eb57f3ad653eb7f))
+
 ### [0.1.5](https://github.com/dimaslz/ng-heroicons/compare/0.1.4...0.1.5) (2022-06-24)
 
 
