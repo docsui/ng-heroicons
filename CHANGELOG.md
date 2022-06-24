@@ -1,3 +1,11 @@
+### [0.1.5](https://github.com/dimaslz/ng-heroicons/compare/0.1.4...0.1.5) (2022-06-24)
+
+
+### Bug Fixes
+
+* **tailwind:** fix tailwind config ([e55d623](https://github.com/dimaslz/ng-heroicons/commit/e55d623bdfcfa7978bd22caec87ba1f1e3eccafc))
+* update peerDependencies ([15bd773](https://github.com/dimaslz/ng-heroicons/commit/15bd773a45859ffbc529282be0af006e733b5695))
+
 ### [0.1.4](https://github.com/dimaslz/ng-heroicons/compare/0.1.3...0.1.4) (2021-10-31)
 
 
